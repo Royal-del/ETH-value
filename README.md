@@ -45,4 +45,4 @@ python main.py
 
 ## 📄 License
 
-MIT © 2025
+MIT © 2024
