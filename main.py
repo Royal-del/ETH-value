@@ -17,7 +17,7 @@ if not w3.isAddress(address):
     print("⚠️ Invalid Ethereum address.")
     exit()
 
-# Get balance
+# #####Get balance
 balance_wei = w3.eth.get_balance(address)
 balance_eth = w3.fromWei(balance_wei, 'ether')
 
