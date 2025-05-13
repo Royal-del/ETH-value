@@ -37,3 +37,12 @@ python main.py
 ```
 
 ---
+
+## 🛑 Note
+
+- Never share your Infura project ID publicly if it's tied to a paid plan.
+- This script only works for the Ethereum **mainnet** by default. You can change the URL to use testnets.
+
+## 📄 License
+
+MIT © 2025
